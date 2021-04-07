@@ -1,4 +1,6 @@
-# Design and HTML by Jonas Schmedtmann. JavaScript by Dmitrii Sukhorukov (me).
+# Pig Game
+
+Design and HTML by Jonas Schmedtmann. JavaScript by Dmitrii Sukhorukov (me).
 
 Rules: 
 
