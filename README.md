@@ -1,5 +1,6 @@
 # Pig Game
 
+This project was created during JavaScript course by Jonas Schmedtmann. 
 Design and HTML by Jonas Schmedtmann. JavaScript by Dmitrii Sukhorukov (me).
 
 Rules: 
